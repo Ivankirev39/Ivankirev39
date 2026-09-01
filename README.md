@@ -5,8 +5,11 @@ I'm a Multimedia Design graduate from Syddansk Erhvervsakademi, specializing in 
 Skills & Tools
 
 UI/UX Design
+
 Frontend Development - HTML, CSS, JavaScript, TypeScript, Vue
+
 WordPress & PHP
+
 Backend & Databases - Firebase, Firestore
 
 I enjoy building clean, user-focused interfaces and turning designs into functional, well-structured code.  
