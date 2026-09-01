@@ -1,4 +1,4 @@
-##Hello, I'm Ivan Kirev 
+Hello, I'm Ivan Kirev 
 
 I'm a Multimedia Design graduate from Syddansk Erhvervsakademi, specializing in UI/UX Design and Frontend Development.
 
