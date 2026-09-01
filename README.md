@@ -1,16 +1,14 @@
-## Hi there 👋
+##Hello, I'm Ivan Kirev 
 
-<!--
-**Ivankirev39/Ivankirev39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multimedia Design graduate from Syddansk Erhvervsakademi, specializing in UI/UX Design and Frontend Development.
 
-Here are some ideas to get you started:
+Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UI/UX Design
+Frontend Development - HTML, CSS, JavaScript, TypeScript, Vue
+WordPress & PHP
+Backend & Databases - Firebase, Firestore
+
+I enjoy building clean, user-focused interfaces and turning designs into functional, well-structured code.  
+
+Contact me at: ivankirev31@gmail.com
